@@ -1,4 +1,3 @@
-
 const Home = () => {
   return (
 
@@ -14,5 +13,3 @@ const Home = () => {
 }
 
 export default Home
-© 2021 GitHub, Inc.
-  Terms
